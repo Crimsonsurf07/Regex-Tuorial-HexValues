@@ -1,5 +1,5 @@
-# Title 
-Regex Tutorial: Matching an HTML Tag
+## Regex Tutorial: Matching an HTML Tag
+
 
 Regex have a multitidue of use cases including `parsing strings` by converting data to alternate formats and the ability to utilize `web scraping`.
 
